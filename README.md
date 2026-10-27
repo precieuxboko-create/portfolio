@@ -40,6 +40,39 @@ Application web de gestion de prêts et de ventes de livres et de matériels.
 - MySQL et SQL
 - Git et GitHub
 
+### Marketplace
+Créer une plateforme marketplace professionnelle multi-vendeur orientée :
+• fluidité utilisateur
+• simplicité d’utilisation
+• architecture évolutive
+• optimisation livraison
+• sécurité backend
+• paiements intégrés
+
+**Technologies :** node.js, express.js, JWT, bcryptjs, multer, MySQL.
+
+**Fonctionnalités principales :**
+- Gestion des boutique séparée
+- Gestion des abonnements
+- Gestion des produits
+- Gestion des signalements
+- Gestion des livraisons
+- Gestion des commandes
+- Gestion des ventes
+- Gestion des utilisateurs et des rôles
+- Modération des publications
+- Gestion du panier utilisateur.
+
+**Objectif final :**
+Créer une plateforme marketplace professionnelle :
+• stable
+• moderne
+• scalable
+• multi-vendeur
+• optimisée livraison
+• facile pour les utilisateurs
+• sécurisée
+
 ##  Objectif professionnel
 
 Développer mes compétences en programmation, en analyse informatique, en gestion des bases de données et en cybersécurité afin de réaliser des applications fiables, sécurisées et utiles.
